@@ -7,9 +7,9 @@ This is one of the many projetcs from [100jsprojects](https://www.100jsprojects.
 
 # Project description
 
-The project involves creating a movie trailer pop-up with an image, movie title, and Loren Ipsum text displayed on the page. Clicking on the Watch Now button will open a video pop-up where. We will use JavaScript to create these functionalities and add or remove the pop-up window. The video tag of HTML will create the video player, and CSS will style it. 
+The project involves creating a movie trailer pop-up with an image, movie title, and Loren Ipsum text displayed on the page. Clicking on the Watch Now button will open a video pop-up where we will use JavaScript to create these functionalities and add or remove the pop-up window. The video tag of HTML will create the video player, and CSS will style it. 
 
-Live [site](https://weight-converter-proj.onrender.com)
+Live [site](https://video-trailer-popup-project.onrender.com)
 
 If you have insights on where i can improve or you want to connect with me feel free to do so 
 👉🏽 [here](https://twitter.com/vykiddeh_)
